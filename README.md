@@ -1,5 +1,3 @@
-### Hi there 👋
-
 I am currently a Computer Science PhD student at University of California, Los Angeles, advised by professor Guy Van den Broeck. My research interests include:
 
 - Probabilistic Reasoning and Learning
