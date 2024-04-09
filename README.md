@@ -6,8 +6,7 @@ I am currently a Computer Science PhD student at University of California, Los A
 - Artificial Intelligence
 - Machine Learning
 
-Check out my website for more details: https://web.cs.ucla.edu/~pashak/
-
+Check out my website for more details: https://khosravipasha.github.io/
 <!--
 **khosravipasha/khosravipasha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
