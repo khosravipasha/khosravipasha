@@ -1,9 +1,8 @@
 I am currently a Computer Science PhD student at University of California, Los Angeles, advised by professor Guy Van den Broeck. My research interests include:
 
+- Explainability and Fairness in AI & ML
 - Probabilistic Reasoning and Learning
 - Tractable Probabilistic Models
-- Explainability and Fairness in AI & ML
-- Artificial Intelligence
 - Machine Learning
 
 Check out my website for more details: https://khosravipasha.github.io/
