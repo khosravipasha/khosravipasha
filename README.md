@@ -1,11 +1,14 @@
-I am currently a Computer Science PhD student at University of California, Los Angeles, advised by professor Guy Van den Broeck. My research interests include:
+I am currently an Applied Research Scientist at LinkedIn.
 
+My research interests include:
+
+- Trust Worthy AI
 - Explainability and Fairness in AI & ML
 - Probabilistic Reasoning and Learning
-- Tractable Probabilistic Models
+- Tractable Probabilistic Models (TPMs)
 - Machine Learning
 
-Check out my website for more details: https://khosravipasha.github.io/
+Check out my website for more details: https://khosravipasha.github.io
 <!--
 **khosravipasha/khosravipasha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
