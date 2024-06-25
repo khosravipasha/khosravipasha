@@ -2,7 +2,7 @@ I am currently an Applied Research Scientist at LinkedIn.
 
 My research interests include:
 
-- Trust Worthy AI
+- Trustworthy AI
 - Explainability and Fairness in AI & ML
 - Probabilistic Reasoning and Learning
 - Tractable Probabilistic Models (TPMs)
